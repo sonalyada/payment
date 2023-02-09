@@ -1,0 +1,55 @@
+body {
+  background-image: url('adarsh.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+h1{
+position:center;
+text-align:center;
+top:50px}
+
+.payment-box {
+  background-color: white;
+  width: 400px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  margin: auto;
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+img {
+  width: 300px;
+  height: 250px;
+}
+
+p {
+  margin-top: 15px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+input[type="submit"] {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+.logo img{
+    float: left;
+    width: 150px;
+    height: auto;
+}
+
+.box{
+background-color:yellow;
+position:center;
+}
